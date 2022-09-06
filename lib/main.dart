@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: const TextStyle(
                 fontSize: 40,
-                color: Colors.red
+                color: Colors.blue
               ),
             ),
           ],
